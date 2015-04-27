@@ -1,0 +1,16 @@
+{
+  "name": "lazy_teacher",
+  "version": "0.0.0",
+  "description": "CSV stuff",
+  "main": "csv_buffer.js",
+  "dependencies": {
+    "csv-streamify": "^2.0.0",
+    "csv-write-stream": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goliatone <hello@goliatone.com> (http://goliatone.com/)",
+  "license": "ISC"
+}
